@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import logo from "../../../public/logo.svg";
+import logo from "../../../public/logo.png";
 import menu from "../../../public/menu.svg";
 
 export function NavigationHeader() {
