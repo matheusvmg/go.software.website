@@ -21,7 +21,7 @@ export function About() {
         <h3 className="font-semibold text-2xl text-standard-blue mt-8">
           Diferenciais
         </h3>
-        <div className="mt-6">
+        <div className="mt-6 flex flex-col gap-4">
           <p>
             ✅ Desenvolvimento personalizado – Criamos soluções sob medida para
             cada necessidade.
