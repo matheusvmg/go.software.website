@@ -5,15 +5,15 @@ export function About() {
   return (
     <section className="bg-light-gray w-full h-full">
       <div className="mx-6 my-6 lg:mx-[88px]">
-        <h1 className="text-standard-blue font-extrabold text-2xl text-center pt-9 lg:text-[40px]">
+        <h1 className="text-standard-blue font-extrabold text-3xl text-center pt-9 lg:text-[40px]">
           Quem somos e como podemos ajudar seu negócio?
         </h1>
-        <p className="text-[14px] mt-8">
+        <p className="mt-8">
           Somos uma empresa especializada no desenvolvimento de software sob
           medida, criando sites, aplicativos e sistemas personalizados para
           empresas que desejam crescer no digital.
         </p>
-        <p className="text-[14px] mt-4 lg:mt-1">
+        <p className="mt-4 lg:mt-1">
           Com foco em tecnologia, inovação e usabilidade, desenvolvemos soluções
           que ajudam nossos clientes a automatizar processos, melhorar a
           experiência do usuário e aumentar seus resultados.

@@ -6,7 +6,7 @@ export function Hero() {
     <section className="bg-light-green h-[350px] w-full md:h-[450px] lg:h-[748px] relative overflow-hidden min-[600px]:h-[270px]">
       <div className="grid grid-cols-1 md:grid-cols-2 h-full w-full">
         <div className="mt-10 mx-6 flex flex-col md:justify-center md:ml-[88px]">
-          <h1 className="text-standard-blue font-extrabold text-2xl md:text-3xl lg:text-[40px]">
+          <h1 className="text-standard-blue font-extrabold text-3xl md:text-4xl lg:text-5xl">
             Soluções Digitais sob medida para o seu negócio
           </h1>
           <p className="text-standard-blue mt-6">
